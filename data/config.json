@@ -1,0 +1,97 @@
+{
+    "background": {
+        "color": {
+            "r": 28,
+            "g": 29,
+            "b": 90
+        }
+    },
+    "font": {
+        "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        }
+    },
+    "player": {
+        "color": {
+            "r": 255,
+            "g": 255,
+            "b": 0
+        },
+        "attraction": 550.0,
+        "radius": 30,
+        "attractionMultiplier": 10
+    },
+    "playerParticle": {
+        "color": {
+            "r": 250,
+            "g": 5,
+            "b": 220
+        },
+        "number": 150,
+        "radius": 3,
+        "originRadius": 120,
+        "damping":0.15
+    },
+    "antiMatterParticle": {
+        "color": {
+            "r": 200,
+            "g": 200,
+            "b": 200
+        },
+        "initVelocity": 50.0
+    },
+    "blackHole": {
+        "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+        }
+    },
+    "pulsarRepelling": {
+        "color": {
+            "r": 255,
+            "g": 100,
+            "b": 0
+        },
+        "timer": 5000
+    },
+    "pulsarDefault": {
+        "color": {
+            "r":0,
+            "g":100,
+            "b":255
+        }
+    },
+    "spaceJunk": {
+        "color": {
+            "r": 180,
+            "g": 180,
+            "b": 180
+        },
+        "angularVelocity": 3
+    },
+    "highscores": {
+        "color": {
+            "r":0,
+            "g":0,
+            "b":20
+        },
+        "maxEntries": 5
+    },
+    "lost": {
+        "color": {
+            "r":0,
+            "g":0,
+            "b":20
+        }
+    },
+    "tutorial": {
+        "color": {
+            "r":0,
+            "g":0,
+            "b":20
+        }
+    }
+}

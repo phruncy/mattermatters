@@ -1,0 +1,399 @@
+{
+        "C001" : {
+            "eventType": "CosmicBody",
+            "chance": 1,
+            "type": "BlackHole",
+            "duration" : 10000, 
+            "radius": 30,
+            "force": 200
+        },
+
+        "C002": {
+            "eventType": "CosmicBody",
+            "chance": 1,
+            "type": "Pulsar",
+            "duration": 15000,
+            "radius": 30,
+            "force": 300
+        },
+        "F001": {
+            "eventType": "ForceField",
+            "chance": 1,
+            "duration": 20000,
+            "width": 400,
+            "height": 300,
+            "force": 500,
+            "directionX": 1,
+            "directionY": -1
+        },
+        "J001": {
+            "eventType":"SpaceJunk",
+            "chance":1,
+            "duration":1,
+            "counter": 5,
+            "speed": 10,
+            "slotCoordinate": "x",
+            "width": 40,
+            "height": 5
+        },
+        "A001": {
+            "eventType":"AntiMatter",
+            "chance":1,
+            "duration":1,
+            "counter":50,
+            "speed":200,
+            "slotCoordinate": "y",
+            "radius":3 
+        },
+        "C003": {
+            "eventType": "CosmicBody",
+            "chance": 0.5,
+            "type": "BlackHole",
+            "duration" : 20000, 
+            "radius": 30,
+            "force": 150
+        },
+        "C004": {
+            "eventType": "CosmicBody",
+            "chance": 0.5,
+            "type": "Pulsar",
+            "duration" : 20000, 
+            "radius": 35,
+            "force": 150
+        },
+        "J002": {
+            "eventType":"SpaceJunk",
+            "chance":0.4,
+            "duration":1,
+            "counter": 6,
+            "speed": 30,
+            "slotCoordinate": "y",
+            "width": 50,
+            "height": 2
+        },
+        "J003": {
+            "eventType":"SpaceJunk",
+            "chance":0.6,
+            "duration":1,
+            "counter": 3,
+            "speed": 10,
+            "slotCoordinate": "x",
+            "width": 30,
+            "height": 20
+        },
+        "J004": {
+            "eventType":"SpaceJunk",
+            "chance":0.5,
+            "duration":1,
+            "counter": 3,
+            "speed": 100,
+            "slotCoordinate": "y",
+            "width": 40,
+            "height": 5
+        },
+        "J005": {
+            "eventType":"SpaceJunk",
+            "chance":0.3,
+            "duration":1,
+            "counter": 12,
+            "speed": 15,
+            "slotCoordinate": "x",
+            "width": 40,
+            "height": 5
+        },
+        "J006": {
+            "eventType":"SpaceJunk",
+            "chance":0.5,
+            "duration":1,
+            "counter": 30,
+            "speed": 4,
+            "slotCoordinate": "y",
+            "width": 40,
+            "height": 5
+        },
+        "J007": {
+            "eventType":"SpaceJunk",
+            "chance":1,
+            "duration":1,
+            "counter": 4,
+            "speed": 15,
+            "slotCoordinate": "y",
+            "width": 60,
+            "height": 5
+        },
+        "F002": {
+            "eventType": "ForceField",
+            "chance": 0.25,
+            "duration": 15000,
+            "width": 300,
+            "height": 1000,
+            "force": 500,
+            "directionX": 0,
+            "directionY": -1
+        },
+        "F003": {
+            "eventType": "ForceField",
+            "chance": 0.25,
+            "duration": 15000,
+            "width": 300,
+            "height": 1000,
+            "force": 500,
+            "directionX": 1,
+            "directionY": 0
+        },
+        "A002": {
+            "eventType":"AntiMatter",
+            "chance":1,
+            "duration":1,
+            "counter":30,
+            "speed":300,
+            "slotCoordinate": "y",
+            "radius":3 
+        },
+        "A003": {
+            "eventType":"AntiMatter",
+            "chance":0.6,
+            "duration":1,
+            "counter":100,
+            "speed":100,
+            "slotCoordinate": "x",
+            "radius":2 
+        },
+        "C005": {
+            "eventType": "CosmicBody",
+            "chance": 1,
+            "type": "BlackHole",
+            "duration" : 75000, 
+            "radius": 200,
+            "force": 300
+        },
+        "C006": {
+            "eventType": "CosmicBody",
+            "chance": 0.5,
+            "type": "Pulsar",
+            "duration" : 20000, 
+            "radius": 60,
+            "force": 150
+        },
+        "C007": {
+            "eventType": "CosmicBody",
+            "chance": 0.5,
+            "type": "Pulsar",
+            "duration" : 20000, 
+            "radius": 40,
+            "force": 20
+        },
+        "A004": {
+            "eventType":"AntiMatter",
+            "chance":1,
+            "duration":1,
+            "counter":300,
+            "speed":50,
+            "slotCoordinate": "y",
+            "radius":3 
+        },
+        "A005": {
+            "eventType":"AntiMatter",
+            "chance":1,
+            "duration":1,
+            "counter":50,
+            "speed":75,
+            "slotCoordinate": "y",
+            "radius":4 
+        },
+        "A006": {
+            "eventType":"AntiMatter",
+            "chance":0.8,
+            "duration":1,
+            "counter":30,
+            "speed":10,
+            "slotCoordinate": "y",
+            "radius":2.5 
+        },
+        "A007": {
+            "eventType":"AntiMatter",
+            "chance":0.7,
+            "duration":1,
+            "counter":100,
+            "speed":30,
+            "slotCoordinate": "x",
+            "radius":3 
+        },
+        "J008": {
+            "eventType":"SpaceJunk",
+            "chance":1,
+            "duration":1,
+            "counter": 25,
+            "speed": 20,
+            "slotCoordinate": "x",
+            "width": 20,
+            "height": 20
+        },
+        "J009": {
+            "eventType":"SpaceJunk",
+            "chance":1,
+            "duration":1,
+            "counter": 2,
+            "speed": 100,
+            "slotCoordinate": "y",
+            "width": 25,
+            "height": 4
+        },
+        "C008": {
+            "eventType": "CosmicBody",
+            "chance": 0.5,
+            "type": "BlackHole",
+            "duration" : 5000, 
+            "radius": 20,
+            "force": 500
+        },  
+        "C009": {
+            "eventType": "CosmicBody",
+            "chance": 0.2,
+            "type": "Pulsar",
+            "duration" : 20000, 
+            "radius": 150,
+            "force": 100
+        }, 
+        "J010": {
+            "eventType":"SpaceJunk",
+            "chance":1,
+            "duration":1,
+            "counter": 20,
+            "speed": 20,
+            "slotCoordinate": "y",
+            "width": 10,
+            "height": 1
+        },
+        "J011": {
+            "eventType":"SpaceJunk",
+            "chance":0.9,
+            "duration":1,
+            "counter": 25,
+            "speed": 15,
+            "slotCoordinate": "x",
+            "width": 15,
+            "height": 2
+        },
+        "F004": {
+            "eventType": "ForceField",
+            "chance": 1,
+            "duration": 20000,
+            "width": 1200,
+            "height": 100,
+            "force": 500,
+            "directionX": 1,
+            "directionY": -1
+        },
+        "A008": {
+            "eventType":"AntiMatter",
+            "chance":1,
+            "duration":1,
+            "counter":20,
+            "speed":20,
+            "slotCoordinate": "x",
+            "radius":3
+        },
+        "J012": {
+            "eventType":"SpaceJunk",
+            "chance":0.7,
+            "duration":1,
+            "counter": 10,
+            "speed": 25,
+            "slotCoordinate": "x",
+            "width": 30,
+            "height": 30
+        },
+        "J013": {
+            "eventType":"SpaceJunk",
+            "chance":0.7,
+            "duration":1,
+            "counter": 15,
+            "speed": 15,
+            "slotCoordinate": "y",
+            "width": 40,
+            "height": 10
+        },
+        "J014": {
+            "eventType":"SpaceJunk",
+            "chance":1,
+            "duration":1,
+            "counter": 25,
+            "speed": 5,
+            "slotCoordinate": "y",
+            "width": 20,
+            "height": 5
+        },
+        "J015": {
+            "eventType":"SpaceJunk",
+            "chance":0.9,
+            "duration":1,
+            "counter": 3,
+            "speed": 15,
+            "slotCoordinate": "x",
+            "width": 80,
+            "height": 80
+        },
+        "J016": {
+            "eventType":"SpaceJunk",
+            "chance":0.5,
+            "duration":1,
+            "counter": 30,
+            "speed": 15,
+            "slotCoordinate": "y",
+            "width": 10,
+            "height": 3
+        },
+        "A009": {
+            "eventType":"AntiMatter",
+            "chance":0.6,
+            "duration":1,
+            "counter":100,
+            "speed":100,
+            "slotCoordinate": "y",
+            "radius":2
+        },
+        "F005": {
+            "eventType": "ForceField",
+            "chance": 0.8,
+            "duration": 20000,
+            "width": 50,
+            "height": 1000,
+            "force": 500,
+            "directionX": -1,
+            "directionY": 0
+        },
+        "C010": {
+            "eventType": "CosmicBody",
+            "chance": 1,
+            "type": "BlackHole",
+            "duration" : 5000, 
+            "radius": 70,
+            "force": 100
+        }, 
+        "C011": {
+            "eventType": "CosmicBody",
+            "chance": 0.5,
+            "type": "Pulsar",
+            "duration" : 25000, 
+            "radius": 55,
+            "force": 250
+        },
+        "A010": {
+            "eventType":"AntiMatter",
+            "chance":1,
+            "duration":1,
+            "counter":100,
+            "speed":100,
+            "slotCoordinate": "y",
+            "radius":2
+        },
+        "C012": {
+            "eventType": "CosmicBody",
+            "chance": 0.8,
+            "type": "Pulsar",
+            "duration" : 50000, 
+            "radius": 40,
+            "force": 250
+        }
+}

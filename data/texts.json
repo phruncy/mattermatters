@@ -1,0 +1,23 @@
+{
+    "tutorial": {
+        "control": "Control your star with the mouse.",
+        "blackHole": "Black holes will absorb your\nparticles. Stay away from them!",
+        "forceField":"Magnetic fields will slightly\ndistract your particles.",
+        "antiMatter":"Antimatter and particles erase\neach other when colliding.\nErase them safely with your star.",
+        "pulsar":"Pulsars switch between\nattracting and repelling.\nThey don't destroy particles.",
+        "spaceJunk":"Space junk hits particles\nuncontrollably. You can \nkick it with your star."
+    },
+    "menu": {
+        "title": "MATTER MATTERS",
+        "subtitle": "| a gravity defying game (literally) |",
+        "controls": "ENTER: new game\nH: highscores\nM: back to menu\nT: how to play\nESC: quit"
+    },
+    "lost": {
+        "title": "KEEP GOING!",
+        "message":"Press ENTER to restart.\nPress M to return to the menu."
+    },
+    "controlLine": {
+        "controlLine": "M: menu | ENTER: new game | ESC: quit"
+    }
+
+}
